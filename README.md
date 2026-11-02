@@ -2,7 +2,7 @@
 
 Tally is an interactive demo of a gym membership and loyalty app: the gym game that rewards showing up, and ranks you against people your size. Members book classes, check in with a wallet card, keep weekly streaks and climb plate-colour ranks within their weight class. Owners get a full-screen dashboard showing money, attendance and members drifting away. It is a portfolio demo. The gym, "Saltworks Barbell Club", its members, classes and money are all made up.
 
-A portfolio project by Josh Terblanche.
+A portfolio project by Josh Terblanche, who led it and made the product, design and business decisions. See the [case study](docs/CASE-STUDY.md).
 
 ## Live demo
 
